@@ -10,5 +10,5 @@
 
 Ctrl+Alt+F1 帮助。  
 Ctrl+Alt+F2 锁定（即让鼠标无法移动，原理是不停让鼠标移动到记录的位置）。  
-Ctrl+Alt+F3 连点。
+Ctrl+Alt+F3 连点。  
 Ctrl+Alt+F4 只有当锁定时才能使用，用 Ctrl+Shift+上下左右 控制鼠标指针位置。
